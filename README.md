@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Highly skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
+Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 
 * 🌍  I'm based in New Delhi , India
 * 🖥️  See my portfolio at [adityatyagi.me](http://adityatyagi.me)
