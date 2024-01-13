@@ -7,7 +7,7 @@ Web Developer
 Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 
 * 🌍  I'm based in New Delhi , India
-* 🖥️  See my portfolio at [adityatyagi.me](http://adityatyagi.me)
+* 🖥️  See my portfolio at [adityatyagi.me](http://adityatyagi.vercel.app)
 * ✉️  You can contact me at [adityatyagiav1@gmail.com](mailto:adityatyagiav1@gmail.com)
 * 🧠  I'm learning Something new..
 * 🤝  I'm open to collaborating on Full stack Web Dev Projects
@@ -64,6 +64,4 @@ src="https://img.shields.io/twitter/follow/adityatyagiav?logo=twitter&style=for-
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/adityatyagiav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
