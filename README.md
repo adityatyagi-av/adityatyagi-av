@@ -7,7 +7,7 @@ Web Developer
 Skilled web developer with a passion for delivering exceptional user-friendly websites. Committed to delivering results that exceed expectations and drive business success.
 
 * 🌍  I'm based in New Delhi , India
-* 🖥️  See my portfolio at [adityatyagi.me](http://adityatyagi.vercel.app)
+* 🖥️  See my portfolio at [adityatyagi.vercel.app](http://adityatyagi.vercel.app)
 * ✉️  You can contact me at [adityatyagiav1@gmail.com](mailto:adityatyagiav1@gmail.com)
 * 🧠  I'm learning Something new..
 * 🤝  I'm open to collaborating on Full stack Web Dev Projects
